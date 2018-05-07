@@ -1,4 +1,4 @@
-//JS对象
+ //JS对象
 var obj = {
     num:10,
     str:"Hi",
